@@ -1,0 +1,11 @@
+markdown:
+  remote: https://github.com/ddrager/ckeditor5-plugin-markdown
+  version: 1.0.0
+  license:
+    name: GNU-GPL-2.0-or-later
+    url: http://github.com/zrpnr/ckeditor5-plugin-infobox/blob/master/LICENSE.md
+    gpl-compatible: true
+  js:
+    js/markdown.js: { preprocess: false, minified: true }
+  dependencies:
+    - ckeditor5/ckeditor5

@@ -1,0 +1,4 @@
+markdown:
+  admin_library: ckeditor5_markdown/markdown
+  plugins:
+    - markdown.Markdown
